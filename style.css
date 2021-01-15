@@ -1,0 +1,40 @@
+#profile {
+    width: 200px;
+    margin-right: 460px;
+    margin-top: 50px;
+    margin-left: 450px;
+}
+#about {
+    margin-top: 50px;
+}
+#home {
+    background: linear-gradient(#02f3f7 0%,#ff3b05 100%);
+    height: 500px;
+    text-align: center;
+    justify-content: center;
+}
+hr {
+    color: black;
+}
+#about {
+    text-align: center;
+}
+#par {
+    max-width: 220px;
+    margin:25px auto;
+    font-family: cursive;
+}
+.item {
+    float: left;
+    list-style: none;
+    margin: 5px;
+    height: 30px;
+    font-size: 20;
+}
+.item:hover {
+    background-color:brown;
+    color: white;
+}
+.menu {
+    margin-left: 320px;
+}
